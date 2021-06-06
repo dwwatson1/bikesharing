@@ -25,7 +25,7 @@ We then took the same analysis as above but added our converted gender dimension
 
 We know that users are more often than not males who take trips in under an hour. Now, let's see when users are taking those rides during each day of the week. As we can see in the heatmap below, peak riding times are during the morning commute hours of 6 - 9 a.m. and 5 - 8 p.m. on weekdays. Weekends have lighter (shown in lighter orange in the heatmap) activity overall but have consistent usage during the daytime hours of 10 a.m. - 6 p.m.
 
-![trips_by_weekday_per_hour.PNG](https://github.com/dwwatson1/bikesharing/blob/main/images/trips_by_weekday_per_hour.PNG)
+<img src="https://github.com/dwwatson1/bikesharing/blob/main/images/trips_by_weekday_per_hour.PNG" width="900" >
 
 
 
