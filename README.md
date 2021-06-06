@@ -17,7 +17,7 @@ Before beginning the analysis, we needed to convert trip duration from an intege
 
 Next, we used that converted trip duration metric to display checkout times for users. As shown in the graph, the majority of users complete their Citi Bike trips in under an hour. In fact, the most popular checkout time is 5 minutes. New Yorkers prefer quick bike trips to get to where they're going.
 
-<img src="https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_for_users.PNG" width="600" >
+<img src="https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_for_users.PNG" width="1000" >
 ![checkout_times_for_users.PNG](https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_for_users.PNG)
 
 We then took the same analysis as above but added our converted gender dimension to display Male, Female, or unknown. Males overwhelmingly take Citi Bike trips compared to females or unknown genders. 
