@@ -17,12 +17,11 @@ Before beginning the analysis, we needed to convert trip duration from an intege
 
 Next, we used that converted trip duration metric to display checkout times for users. As shown in the graph, the majority of users complete their Citi Bike trips in under an hour. In fact, the most popular checkout time is 5 minutes. New Yorkers prefer quick bike trips to get to where they're going.
 
-<img src="https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_for_users.PNG" width="900" >
-![checkout_times_for_users.PNG](https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_for_users.PNG)
+<img src="https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_for_users.PNG" width="800" >
 
 We then took the same analysis as above but added our converted gender dimension to display Male, Female, or unknown. Males overwhelmingly take Citi Bike trips compared to females or unknown genders. 
 
-![checkout_times_by_gender.PNG](https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_by_gender.PNG)
+<img src="https://github.com/dwwatson1/bikesharing/blob/main/images/checkout_times_by_gender.PNG" width="800" >
 
 We know that users are more often than not males who take trips in under an hour. Now, let's see when users are taking those rides during each day of the week. As we can see in the heatmap below, peak riding times are during the morning commute hours of 6 - 9 a.m. and 5 - 8 p.m. on weekdays. Weekends have lighter (shown in lighter orange in the heatmap) activity overall but have consistent usage during the daytime hours of 10 a.m. - 6 p.m.
 
